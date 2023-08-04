@@ -1,0 +1,16 @@
+span [class^='su-'] {
+    border:none !important;
+    padding:0 !important; 
+}
+
+td.featured_image.column-featured_image * {
+    height:<?php echo get_option("fifu_column_height"); ?>px;
+    /*width:<?php echo get_option("fifu_column_height"); ?>px;*/
+    box-shadow:none;
+}
+
+#fifu_shortcode * {
+    width:100%;
+    max-width:254px;
+    box-shadow:none;
+}

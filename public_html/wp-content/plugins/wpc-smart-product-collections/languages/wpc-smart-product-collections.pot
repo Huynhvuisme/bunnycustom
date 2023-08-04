@@ -1,0 +1,327 @@
+# Copyright (C) 2023 WPClever
+# This file is distributed under the same license as the WPC Smart Product Collections for WooCommerce plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPC Smart Product Collections for WooCommerce 1.0.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wpc-smart-product-collections\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-05-13T08:41:51+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: wpc-smart-product-collections\n"
+
+#. Plugin Name of the plugin
+msgid "WPC Smart Product Collections for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://wpclever.net/"
+msgstr ""
+
+#. Description of the plugin
+msgid "WPC Smart Product Collections allows you to manage product collections in the easiest."
+msgstr ""
+
+#. Author of the plugin
+msgid "WPClever"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wpclever.net"
+msgstr ""
+
+#: wpc-smart-product-collections.php:184
+#: wpc-smart-product-collections.php:186
+#: wpc-smart-product-collections.php:567
+msgid "Collections"
+msgstr ""
+
+#: wpc-smart-product-collections.php:185
+msgid "Collection"
+msgstr ""
+
+#: wpc-smart-product-collections.php:187
+msgid "All Collections"
+msgstr ""
+
+#: wpc-smart-product-collections.php:188
+msgid "Edit Collection"
+msgstr ""
+
+#: wpc-smart-product-collections.php:189
+msgid "View Collection"
+msgstr ""
+
+#: wpc-smart-product-collections.php:190
+msgid "Update Collection"
+msgstr ""
+
+#: wpc-smart-product-collections.php:191
+msgid "Add New Collection"
+msgstr ""
+
+#: wpc-smart-product-collections.php:192
+msgid "New Collection Name"
+msgstr ""
+
+#: wpc-smart-product-collections.php:193
+msgid "Parent Collection"
+msgstr ""
+
+#: wpc-smart-product-collections.php:194
+msgid "Parent Collection:"
+msgstr ""
+
+#: wpc-smart-product-collections.php:195
+msgid "Search Collections"
+msgstr ""
+
+#: wpc-smart-product-collections.php:196
+msgid "Popular Collections"
+msgstr ""
+
+#: wpc-smart-product-collections.php:197
+msgid "&larr; Go to Collections"
+msgstr ""
+
+#: wpc-smart-product-collections.php:198
+msgid "Separate collections with commas"
+msgstr ""
+
+#: wpc-smart-product-collections.php:199
+msgid "Add or remove collections"
+msgstr ""
+
+#: wpc-smart-product-collections.php:200
+msgid "Choose from the most used collections"
+msgstr ""
+
+#: wpc-smart-product-collections.php:201
+msgid "No collections found"
+msgstr ""
+
+#: wpc-smart-product-collections.php:243
+#: wpc-smart-product-collections.php:254
+msgid "WPC Smart Product Collections"
+msgstr ""
+
+#: wpc-smart-product-collections.php:243
+msgid "Smart Collections"
+msgstr ""
+
+#: wpc-smart-product-collections.php:257
+msgid "Thank you for using our plugin! If you are satisfied, please reward it a full five-star %s rating."
+msgstr ""
+
+#: wpc-smart-product-collections.php:259
+msgid "Reviews"
+msgstr ""
+
+#: wpc-smart-product-collections.php:260
+msgid "Changelog"
+msgstr ""
+
+#: wpc-smart-product-collections.php:261
+msgid "Discussion"
+msgstr ""
+
+#: wpc-smart-product-collections.php:266
+msgid "Settings updated."
+msgstr ""
+
+#: wpc-smart-product-collections.php:272
+#: wpc-smart-product-collections.php:458
+msgid "Settings"
+msgstr ""
+
+#: wpc-smart-product-collections.php:275
+msgid "Shortcodes"
+msgstr ""
+
+#: wpc-smart-product-collections.php:289
+msgid "General"
+msgstr ""
+
+#: wpc-smart-product-collections.php:293
+#: wpc-smart-product-collections.php:822
+msgid "Slug"
+msgstr ""
+
+#: wpc-smart-product-collections.php:299
+msgid "Logo size"
+msgstr ""
+
+#: wpc-smart-product-collections.php:324
+msgid "Products archive"
+msgstr ""
+
+#: wpc-smart-product-collections.php:328
+#: wpc-smart-product-collections.php:366
+msgid "Position"
+msgstr ""
+
+#: wpc-smart-product-collections.php:335
+msgid "Above thumbnail"
+msgstr ""
+
+#: wpc-smart-product-collections.php:336
+#: wpc-smart-product-collections.php:373
+msgid "Above title"
+msgstr ""
+
+#: wpc-smart-product-collections.php:337
+#: wpc-smart-product-collections.php:374
+msgid "Under title"
+msgstr ""
+
+#: wpc-smart-product-collections.php:338
+msgid "Under rating"
+msgstr ""
+
+#: wpc-smart-product-collections.php:339
+#: wpc-smart-product-collections.php:375
+msgid "Under price"
+msgstr ""
+
+#: wpc-smart-product-collections.php:340
+#: wpc-smart-product-collections.php:377
+msgid "Above add to cart button"
+msgstr ""
+
+#: wpc-smart-product-collections.php:341
+#: wpc-smart-product-collections.php:378
+msgid "Under add to cart button"
+msgstr ""
+
+#: wpc-smart-product-collections.php:342
+#: wpc-smart-product-collections.php:382
+msgid "None (hide it)"
+msgstr ""
+
+#: wpc-smart-product-collections.php:347
+#: wpc-smart-product-collections.php:387
+msgid "Type"
+msgstr ""
+
+#: wpc-smart-product-collections.php:354
+#: wpc-smart-product-collections.php:394
+msgid "Text"
+msgstr ""
+
+#: wpc-smart-product-collections.php:355
+#: wpc-smart-product-collections.php:395
+msgid "Image"
+msgstr ""
+
+#: wpc-smart-product-collections.php:356
+#: wpc-smart-product-collections.php:396
+msgid "Text & Image"
+msgstr ""
+
+#: wpc-smart-product-collections.php:362
+msgid "Single product"
+msgstr ""
+
+#: wpc-smart-product-collections.php:376
+msgid "Under excerpt"
+msgstr ""
+
+#: wpc-smart-product-collections.php:379
+msgid "Under meta"
+msgstr ""
+
+#: wpc-smart-product-collections.php:380
+msgid "Under sharing"
+msgstr ""
+
+#: wpc-smart-product-collections.php:381
+msgid "In a new tab"
+msgstr ""
+
+#: wpc-smart-product-collections.php:474
+msgid "Community support"
+msgstr ""
+
+#: wpc-smart-product-collections.php:538
+msgid "including"
+msgstr ""
+
+#: wpc-smart-product-collections.php:539
+msgid "excluding"
+msgstr ""
+
+#: wpc-smart-product-collections.php:637
+#: wpc-smart-product-collections.php:819
+msgid "Logo"
+msgstr ""
+
+#: wpc-smart-product-collections.php:643
+#: wpc-smart-product-collections.php:660
+msgid "Select image"
+msgstr ""
+
+#: wpc-smart-product-collections.php:646
+#: wpc-smart-product-collections.php:663
+msgid "× remove"
+msgstr ""
+
+#: wpc-smart-product-collections.php:654
+msgid "Banner"
+msgstr ""
+
+#: wpc-smart-product-collections.php:671
+msgid "Banner link"
+msgstr ""
+
+#: wpc-smart-product-collections.php:681
+msgid "Conditions"
+msgstr ""
+
+#: wpc-smart-product-collections.php:696
+msgid "+ Add Condition"
+msgstr ""
+
+#: wpc-smart-product-collections.php:704
+msgid "Include products"
+msgstr ""
+
+#: wpc-smart-product-collections.php:709
+#: wpc-smart-product-collections.php:733
+msgid "Search for a product&hellip;"
+msgstr ""
+
+#: wpc-smart-product-collections.php:728
+msgid "Exclude products"
+msgstr ""
+
+#: wpc-smart-product-collections.php:752
+msgid "Note"
+msgstr ""
+
+#: wpc-smart-product-collections.php:755
+msgid "After creating/editing a collection, wait for a while when our plugin works on searching for products. You can check back later to see all changes saved to your site."
+msgstr ""
+
+#: wpc-smart-product-collections.php:820
+msgid "Name"
+msgstr ""
+
+#: wpc-smart-product-collections.php:821
+msgid "Description"
+msgstr ""
+
+#: wpc-smart-product-collections.php:823
+msgid "Count"
+msgstr ""
+
+#: wpc-smart-product-collections.php:863
+msgid "Filter by collection"
+msgstr ""
+
+#: wpc-smart-product-collections.php:909
+msgid "Collection: "
+msgstr ""

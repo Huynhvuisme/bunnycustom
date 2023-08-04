@@ -1,0 +1,26 @@
+<script>
+        <?php include 'js/shortcode-meta-box.js' ?>
+</script>
+
+<!-- show shortcode and link if URL was already provided -->
+
+<input
+    id="fifu_shortcode_input"
+    type="text"
+    name="fifu_shortcode_input"
+    value="<?php echo $url; ?>"
+    style="<?php echo $width?>" />
+
+<div
+    id="fifu_shortcode"
+    style="<?php echo $width, $show_shortcode ?>" >
+    <?php echo do_shortcode($url);?>     
+</div>
+
+<center>
+    <a
+        id="fifu_shortcode_link"
+        href="#"
+        onClick="removeShortcode();"
+        style="<?php echo $show_link ?>">remove featured shortcode</a>
+</center>

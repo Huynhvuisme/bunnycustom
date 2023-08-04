@@ -1,0 +1,28 @@
+<script><?php include 'js/woo-video-meta-box.js' ?></script>
+
+<!-- show video and remove button if URL was already provided -->
+
+<a id="fifu_video_link_<?php echo $i; ?>" 
+   class="button"
+   href="#" 
+   onClick="wcRemoveVideo(<?php echo $i; ?>);" 
+   style="<?php echo $show_link[$i] ?>" >Remove</a>
+
+<div id="fifu_video_<?php echo $i; ?>"
+     style="<?php echo $show_video[$i] ?>"> 
+    <iframe id="fifu_video_iframe_<?php echo $i; ?>" width="100%" src="<?php echo fifu_video_src($url[$i]); ?>" allowfullscreen frameborder="0"></iframe>
+</div>
+
+<!-- show URL field and preview button if URL was not provided yet -->
+
+<input id="fifu_video_input_url_<?php echo $i; ?>" 
+       type="text" 
+       name="fifu_video_input_url_<?php echo $i; ?>" 
+       placeholder="URL" 
+       value="<?php echo $url[$i]; ?>"
+       style="<?php echo $width, $margin, $show_url[$i] ?>" />
+
+<a id="fifu_video_button_<?php echo $i; ?>" 
+   class="button"
+   onClick="wcPreviewVideo(<?php echo $i; ?>);" 
+   style="<?php echo $align, $margin, $show_button[$i] ?>" >Preview</a>

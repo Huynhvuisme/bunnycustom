@@ -1,0 +1,25 @@
+/* product detail */
+.product-info .price.product-page-price{
+    display: none;
+}
+.product-info .variable-item.selected {
+    border: 1px solid #fcb800;
+    box-shadow:none!important;
+}
+
+.product-info .label label {
+    text-transform: capitalize;
+}
+.product-info .woo-selected-variation-item-name {
+    text-transform: capitalize;
+    color: #06c;
+}
+.product-info .woocommerce-Price-currencySymbol {
+    font-size: 30px !important;
+}
+.product-info .woocommerce-Price-amount.amount bdi {
+    font-size: 30px !important;
+}
+.product-info .product_meta{
+    display: none;
+}
