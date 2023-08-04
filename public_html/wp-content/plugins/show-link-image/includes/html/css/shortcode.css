@@ -1,0 +1,24 @@
+.featured-media [class^='su-'] {
+    border:none !important;
+    box-shadow:none !important;
+    padding:0 !important; 
+    width:100%;
+}
+
+.product_list_widget [class^='su-'] {
+    border:none !important;
+    box-shadow:none !important;
+    padding:0 !important; 
+}
+
+.products [class^='su-'] {
+    border:none !important;
+    box-shadow:none !important;
+    padding:0 !important; 
+}
+
+.woocommerce-product-gallery__wrapper [class^='su-'] {
+    border:none !important;
+    box-shadow:none !important;
+    padding:0 !important;
+}

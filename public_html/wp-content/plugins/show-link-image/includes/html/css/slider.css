@@ -1,0 +1,4 @@
+.archive-page ul li, .entry-content ul li, .entry-content ol, .entry-content ul {
+    list-style-type: none;
+    margin: 0 0 0 0;
+}
